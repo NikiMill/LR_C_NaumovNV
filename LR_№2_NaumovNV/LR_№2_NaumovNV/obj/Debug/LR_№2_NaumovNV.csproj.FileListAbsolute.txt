@@ -1,0 +1,13 @@
+D:\repos\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR_№2_NaumovNV.csproj.AssemblyReference.cache
+D:\repos\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR_№2_NaumovNV.csproj.SuggestedBindingRedirects.cache
+D:\repos\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR__2_NaumovNV.Properties.Resources.resources
+D:\repos\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR_№2_NaumovNV.csproj.GenerateResource.cache
+D:\repos\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR_№2_NaumovNV.csproj.CoreCompileInputs.cache
+D:\repos\LR_№2_NaumovNV\LR_№2_NaumovNV\bin\Debug\LR_№2_NaumovNV.exe.config
+D:\repos\LR_№2_NaumovNV\LR_№2_NaumovNV\bin\Debug\LR_№2_NaumovNV.exe
+D:\repos\LR_№2_NaumovNV\LR_№2_NaumovNV\bin\Debug\LR_№2_NaumovNV.pdb
+D:\repos\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR_№2_NaumovNV.exe
+D:\repos\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR_№2_NaumovNV.pdb
+D:\repos\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR__2_NaumovNV.ИЗ_20.resources
+D:\repos\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR__2_NaumovNV.ИЗ_13.resources
+D:\repos\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR__2_NaumovNV.ИЗ_10.resources
