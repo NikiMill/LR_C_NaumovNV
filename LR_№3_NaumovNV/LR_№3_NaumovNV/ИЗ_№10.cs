@@ -19,7 +19,7 @@ namespace LR__3_NaumovNV
 
         private void ИЗ__10_Load(object sender, EventArgs e)
         {
-
+            
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -27,6 +27,22 @@ namespace LR__3_NaumovNV
             // Получение исходных данных из TextBox
             double x = Convert.ToDouble(textBox2.Text);
             double q = Convert.ToDouble(textBox1.Text);
+            double fx = 0;
+            if (radioButton1.Checked)
+            {
+                fx = Math.Sinh(x);
+            }
+            else if (radioButton2.Checked)
+            {
+                fx = Math.Exp(x);
+            }
+            else if (radioButton3.Checked)
+            {                
+                fx = x * x;
+            }
+            else
+                fx = 0;
+
 
             // Ввод исходных данных в окно результатов
             textBox4.Text = "Результаты работы программы " +
@@ -40,12 +56,12 @@ namespace LR__3_NaumovNV
 
             double k;
             if (Math.Abs(x*q) > 10)
-                k = Math.Log(Math.Sinh(x) + Math.Abs(q));
+                k = Math.Log(fx + Math.Abs(q));
             else
                 if (Math.Abs(x * q) < 10)
-                k = Math.Exp(Math.Sinh(x) + q);
+                k = Math.Exp(fx + q);
             else
-                k = Math.Sinh(x) + q;
+                k = fx + q;
             // Вывод результата
             textBox4.Text += "k = " + k.ToString() +
             Environment.NewLine;
@@ -55,6 +71,21 @@ namespace LR__3_NaumovNV
         {
             textBox4.Text = "Результаты работы программы " + "ст. Наумова Н.В." +
             Environment.NewLine;
+        }
+
+        private void radioButton2_CheckedChanged(object sender, EventArgs e)
+        {
+            MessageBox.Show("Выбрана функция: Exp(x)");
+        }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+            MessageBox.Show("Выбрана функция: sh(x)");
+        }
+
+        private void radioButton3_CheckedChanged(object sender, EventArgs e)
+        {
+            MessageBox.Show("Выбрана функция: Pow(x, 2)");
         }
     }
 }

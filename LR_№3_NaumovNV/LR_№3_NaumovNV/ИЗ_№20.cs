@@ -29,6 +29,21 @@ namespace LR__3_NaumovNV
             double x = Convert.ToDouble(textBox2.Text);
             double y = Convert.ToDouble(textBox1.Text);
             double z = Convert.ToDouble(textBox3.Text);
+            double fx = 0;
+            if (radioButton1.Checked)
+            {
+                fx = Math.Sinh(x);
+            }
+            else if (radioButton2.Checked)
+            {
+                fx = Math.Exp(x);
+            }
+            else if (radioButton3.Checked)
+            {
+                fx = x * x;
+            }
+            else
+                fx = 0;
 
             // Ввод исходных данных в окно результатов
             textBox4.Text = "Результаты работы программы " +
@@ -48,6 +63,21 @@ namespace LR__3_NaumovNV
             // Вывод результата
             textBox4.Text += "R = " + r.ToString() +
             Environment.NewLine;
+        }
+
+        private void radioButton2_CheckedChanged(object sender, EventArgs e)
+        {
+            MessageBox.Show("Выбрана функция: Exp(x)");
+        }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+            MessageBox.Show("Выбрана функция: sh(x)");
+        }
+
+        private void radioButton3_CheckedChanged(object sender, EventArgs e)
+        {
+            MessageBox.Show("Выбрана функция: Pow(x, 2)");
         }
     }
 }
