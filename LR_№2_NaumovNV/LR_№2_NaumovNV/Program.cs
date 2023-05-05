@@ -16,6 +16,7 @@ namespace LR__2_NaumovNV
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new ТеорЧасть());
             Application.Run(new ИЗ_10());
             Application.Run(new ИЗ_13());
             Application.Run(new ИЗ_20());

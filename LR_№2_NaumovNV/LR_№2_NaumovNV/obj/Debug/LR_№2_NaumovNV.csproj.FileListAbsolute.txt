@@ -11,3 +11,17 @@ D:\repos\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR_№2_NaumovNV.pdb
 D:\repos\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR__2_NaumovNV.ИЗ_20.resources
 D:\repos\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR__2_NaumovNV.ИЗ_13.resources
 D:\repos\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR__2_NaumovNV.ИЗ_10.resources
+C:\Users\student-09-503\source\repos\NikiMill\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\bin\Debug\LR_№2_NaumovNV.exe.config
+C:\Users\student-09-503\source\repos\NikiMill\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\bin\Debug\LR_№2_NaumovNV.exe
+C:\Users\student-09-503\source\repos\NikiMill\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\bin\Debug\LR_№2_NaumovNV.pdb
+C:\Users\student-09-503\source\repos\NikiMill\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR_№2_NaumovNV.csproj.AssemblyReference.cache
+C:\Users\student-09-503\source\repos\NikiMill\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR_№2_NaumovNV.csproj.SuggestedBindingRedirects.cache
+C:\Users\student-09-503\source\repos\NikiMill\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR__2_NaumovNV.ИЗ_10.resources
+C:\Users\student-09-503\source\repos\NikiMill\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR__2_NaumovNV.ИЗ_20.resources
+C:\Users\student-09-503\source\repos\NikiMill\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR__2_NaumovNV.ИЗ_13.resources
+C:\Users\student-09-503\source\repos\NikiMill\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR__2_NaumovNV.Properties.Resources.resources
+C:\Users\student-09-503\source\repos\NikiMill\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR__2_NaumovNV.ТеорЧасть.resources
+C:\Users\student-09-503\source\repos\NikiMill\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR_№2_NaumovNV.csproj.GenerateResource.cache
+C:\Users\student-09-503\source\repos\NikiMill\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR_№2_NaumovNV.csproj.CoreCompileInputs.cache
+C:\Users\student-09-503\source\repos\NikiMill\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR_№2_NaumovNV.exe
+C:\Users\student-09-503\source\repos\NikiMill\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR_№2_NaumovNV.pdb
