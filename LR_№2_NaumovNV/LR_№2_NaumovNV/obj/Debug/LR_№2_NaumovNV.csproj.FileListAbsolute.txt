@@ -25,3 +25,17 @@ C:\Users\student-09-503\source\repos\NikiMill\LR_C_NaumovNV\LR_№2_NaumovNV\LR_
 C:\Users\student-09-503\source\repos\NikiMill\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR_№2_NaumovNV.csproj.CoreCompileInputs.cache
 C:\Users\student-09-503\source\repos\NikiMill\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR_№2_NaumovNV.exe
 C:\Users\student-09-503\source\repos\NikiMill\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR_№2_NaumovNV.pdb
+D:\repos_git\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\bin\Debug\LR_№2_NaumovNV.exe.config
+D:\repos_git\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\bin\Debug\LR_№2_NaumovNV.exe
+D:\repos_git\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\bin\Debug\LR_№2_NaumovNV.pdb
+D:\repos_git\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR_№2_NaumovNV.csproj.AssemblyReference.cache
+D:\repos_git\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR_№2_NaumovNV.csproj.SuggestedBindingRedirects.cache
+D:\repos_git\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR__2_NaumovNV.ИЗ_10.resources
+D:\repos_git\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR__2_NaumovNV.ИЗ_20.resources
+D:\repos_git\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR__2_NaumovNV.ИЗ_13.resources
+D:\repos_git\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR__2_NaumovNV.Properties.Resources.resources
+D:\repos_git\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR__2_NaumovNV.ТеорЧасть.resources
+D:\repos_git\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR_№2_NaumovNV.csproj.GenerateResource.cache
+D:\repos_git\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR_№2_NaumovNV.csproj.CoreCompileInputs.cache
+D:\repos_git\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR_№2_NaumovNV.exe
+D:\repos_git\LR_C_NaumovNV\LR_№2_NaumovNV\LR_№2_NaumovNV\obj\Debug\LR_№2_NaumovNV.pdb
