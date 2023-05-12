@@ -10,14 +10,19 @@ using System.Windows.Forms;
 
 namespace LR__5_NaumovNV
 {
-    public partial class ИЗ__10 : Form
+    public partial class ИЗ__11 : Form
     {
-        public ИЗ__10()
+        public ИЗ__11()
         {
             InitializeComponent();
         }
 
-        private void ИЗ__10_MouseClick(object sender, MouseEventArgs e)
+        private void ИЗ__11_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ИЗ__11_MouseClick(object sender, MouseEventArgs e)
         {
             if (e.Button == MouseButtons.Left)
             {   //Добавление кнопки
@@ -25,10 +30,13 @@ namespace LR__5_NaumovNV
                 b.Parent = this;
                 b.Location = new Point(e.X, e.Y);
                 b.Text = "0_0";
+                TextBox c = new TextBox();
+                c.Parent = this;
+                c.Location = new Point(e.X, e.Y+ c.Size.Height);
+                c.Text = "^_^";
             }
             else if (e.Button == MouseButtons.Right)
                 Controls.Clear();
-    
         }
     }
 }

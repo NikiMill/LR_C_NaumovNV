@@ -10,3 +10,16 @@ C:\Users\student-09-503\source\repos\LR_№5_NaumovNV\LR_№5_NaumovNV\obj\Debug
 C:\Users\student-09-503\source\repos\LR_№5_NaumovNV\LR_№5_NaumovNV\obj\Debug\LR_№5_NaumovNV.pdb
 C:\Users\student-09-503\source\repos\LR_№5_NaumovNV\LR_№5_NaumovNV\obj\Debug\LR__5_NaumovNV.ТеорЧасть.resources
 C:\Users\student-09-503\source\repos\LR_№5_NaumovNV\LR_№5_NaumovNV\obj\Debug\LR__5_NaumovNV.ИЗ__10.resources
+C:\Users\student-22-309\Source\Repos\NikiMill\LR_C_NaumovNV\LR_№5_NaumovNV\LR_№5_NaumovNV\bin\Debug\LR_№5_NaumovNV.exe.config
+C:\Users\student-22-309\Source\Repos\NikiMill\LR_C_NaumovNV\LR_№5_NaumovNV\LR_№5_NaumovNV\bin\Debug\LR_№5_NaumovNV.exe
+C:\Users\student-22-309\Source\Repos\NikiMill\LR_C_NaumovNV\LR_№5_NaumovNV\LR_№5_NaumovNV\bin\Debug\LR_№5_NaumovNV.pdb
+C:\Users\student-22-309\Source\Repos\NikiMill\LR_C_NaumovNV\LR_№5_NaumovNV\LR_№5_NaumovNV\obj\Debug\LR__5_NaumovNV.ИЗ__10.resources
+C:\Users\student-22-309\Source\Repos\NikiMill\LR_C_NaumovNV\LR_№5_NaumovNV\LR_№5_NaumovNV\obj\Debug\LR__5_NaumovNV.ТеорЧасть.resources
+C:\Users\student-22-309\Source\Repos\NikiMill\LR_C_NaumovNV\LR_№5_NaumovNV\LR_№5_NaumovNV\obj\Debug\LR__5_NaumovNV.Properties.Resources.resources
+C:\Users\student-22-309\Source\Repos\NikiMill\LR_C_NaumovNV\LR_№5_NaumovNV\LR_№5_NaumovNV\obj\Debug\LR_№5_NaumovNV.csproj.GenerateResource.cache
+C:\Users\student-22-309\Source\Repos\NikiMill\LR_C_NaumovNV\LR_№5_NaumovNV\LR_№5_NaumovNV\obj\Debug\LR_№5_NaumovNV.csproj.CoreCompileInputs.cache
+C:\Users\student-22-309\Source\Repos\NikiMill\LR_C_NaumovNV\LR_№5_NaumovNV\LR_№5_NaumovNV\obj\Debug\LR_№5_NaumovNV.exe
+C:\Users\student-22-309\Source\Repos\NikiMill\LR_C_NaumovNV\LR_№5_NaumovNV\LR_№5_NaumovNV\obj\Debug\LR_№5_NaumovNV.pdb
+C:\Users\student-22-309\Source\Repos\NikiMill\LR_C_NaumovNV\LR_№5_NaumovNV\LR_№5_NaumovNV\obj\Debug\LR_№5_NaumovNV.csprojAssemblyReference.cache
+C:\Users\student-22-309\Source\Repos\NikiMill\LR_C_NaumovNV\LR_№5_NaumovNV\LR_№5_NaumovNV\obj\Debug\LR__5_NaumovNV.ИЗ__11.resources
+C:\Users\student-22-309\Source\Repos\NikiMill\LR_C_NaumovNV\LR_№5_NaumovNV\LR_№5_NaumovNV\obj\Debug\LR__5_NaumovNV.ИЗ__20.resources

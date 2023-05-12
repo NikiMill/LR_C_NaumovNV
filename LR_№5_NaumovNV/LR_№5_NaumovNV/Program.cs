@@ -18,6 +18,8 @@ namespace LR__5_NaumovNV
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new ТеорЧасть());
             Application.Run(new ИЗ__10());
+            Application.Run(new ИЗ__11());
+            Application.Run(new ИЗ__20());
 
         }
     }
