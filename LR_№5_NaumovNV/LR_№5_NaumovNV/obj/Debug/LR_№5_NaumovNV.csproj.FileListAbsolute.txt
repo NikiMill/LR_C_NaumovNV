@@ -1,0 +1,12 @@
+C:\Users\student-09-503\source\repos\LR_№5_NaumovNV\LR_№5_NaumovNV\bin\Debug\LR_№5_NaumovNV.exe.config
+C:\Users\student-09-503\source\repos\LR_№5_NaumovNV\LR_№5_NaumovNV\bin\Debug\LR_№5_NaumovNV.exe
+C:\Users\student-09-503\source\repos\LR_№5_NaumovNV\LR_№5_NaumovNV\bin\Debug\LR_№5_NaumovNV.pdb
+C:\Users\student-09-503\source\repos\LR_№5_NaumovNV\LR_№5_NaumovNV\obj\Debug\LR_№5_NaumovNV.csproj.AssemblyReference.cache
+C:\Users\student-09-503\source\repos\LR_№5_NaumovNV\LR_№5_NaumovNV\obj\Debug\LR_№5_NaumovNV.csproj.SuggestedBindingRedirects.cache
+C:\Users\student-09-503\source\repos\LR_№5_NaumovNV\LR_№5_NaumovNV\obj\Debug\LR__5_NaumovNV.Properties.Resources.resources
+C:\Users\student-09-503\source\repos\LR_№5_NaumovNV\LR_№5_NaumovNV\obj\Debug\LR_№5_NaumovNV.csproj.GenerateResource.cache
+C:\Users\student-09-503\source\repos\LR_№5_NaumovNV\LR_№5_NaumovNV\obj\Debug\LR_№5_NaumovNV.csproj.CoreCompileInputs.cache
+C:\Users\student-09-503\source\repos\LR_№5_NaumovNV\LR_№5_NaumovNV\obj\Debug\LR_№5_NaumovNV.exe
+C:\Users\student-09-503\source\repos\LR_№5_NaumovNV\LR_№5_NaumovNV\obj\Debug\LR_№5_NaumovNV.pdb
+C:\Users\student-09-503\source\repos\LR_№5_NaumovNV\LR_№5_NaumovNV\obj\Debug\LR__5_NaumovNV.ТеорЧасть.resources
+C:\Users\student-09-503\source\repos\LR_№5_NaumovNV\LR_№5_NaumovNV\obj\Debug\LR__5_NaumovNV.ИЗ__10.resources
