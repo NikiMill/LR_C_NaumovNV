@@ -1,0 +1,11 @@
+C:\Users\student-09-503\source\repos\LR_№7_NaumovMV\LR_№7_NaumovMV\obj\Debug\LR_№7_NaumovMV.csprojAssemblyReference.cache
+C:\Users\student-09-503\source\repos\LR_№7_NaumovMV\LR_№7_NaumovMV\obj\Debug\LR__7_NaumovMV.ТеорЧасть.resources
+C:\Users\student-09-503\source\repos\LR_№7_NaumovMV\LR_№7_NaumovMV\obj\Debug\LR__7_NaumovMV.Properties.Resources.resources
+C:\Users\student-09-503\source\repos\LR_№7_NaumovMV\LR_№7_NaumovMV\obj\Debug\LR_№7_NaumovMV.csproj.GenerateResource.cache
+C:\Users\student-09-503\source\repos\LR_№7_NaumovMV\LR_№7_NaumovMV\obj\Debug\LR_№7_NaumovMV.csproj.CoreCompileInputs.cache
+C:\Users\student-09-503\source\repos\LR_№7_NaumovMV\LR_№7_NaumovMV\bin\Debug\LR_№7_NaumovMV.exe.config
+C:\Users\student-09-503\source\repos\LR_№7_NaumovMV\LR_№7_NaumovMV\bin\Debug\LR_№7_NaumovMV.exe
+C:\Users\student-09-503\source\repos\LR_№7_NaumovMV\LR_№7_NaumovMV\bin\Debug\LR_№7_NaumovMV.pdb
+C:\Users\student-09-503\source\repos\LR_№7_NaumovMV\LR_№7_NaumovMV\obj\Debug\LR_№7_NaumovMV.exe
+C:\Users\student-09-503\source\repos\LR_№7_NaumovMV\LR_№7_NaumovMV\obj\Debug\LR_№7_NaumovMV.pdb
+C:\Users\student-09-503\source\repos\LR_№7_NaumovMV\LR_№7_NaumovMV\obj\Debug\LR__7_NaumovMV.ИЗ__20.resources
